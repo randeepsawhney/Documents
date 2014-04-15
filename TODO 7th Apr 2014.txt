@@ -1,0 +1,17 @@
+1. Emma confirms that Elle tags all the CVs - so why still some CVs are not tagged
+
+Randeep: Have asked Emma for login details used for tagging
+
+2. Need to get some insight into the Guests that are coming into the site and see atleast tag the ones that are coming internally (this is important consideirng that changing the adwords will take time)
+
+Randeep: Sessions are being logged to see the landing page of the users that come in – so will use the data to see where people are comign from and their first landing page on the site.
+
+3. Check all those registered over weekend using salary landing page if they are of any high quality
+
+Randeep: Sent xls to Alex for him to review it.
+
+4. Check why the Google Analytics experiment shows 0 registrations 
+Randeep: Found an issue with the goals …. 
+
+5. Need  to focus on remarketing as integral part of our marketing
+
